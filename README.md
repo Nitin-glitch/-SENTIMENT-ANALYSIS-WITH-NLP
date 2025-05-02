@@ -72,3 +72,4 @@ This task provided hands-on experience with essential techniques in natural lang
 By completing this task, I gained a deeper understanding of how machine learning models can interpret human language and make data-driven decisions. It also emphasized the importance of data preprocessing and feature engineering in achieving good model performance.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/47408ef6-bcc2-4dd5-870a-09002d9803dd)
